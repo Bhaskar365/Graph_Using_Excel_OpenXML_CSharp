@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kAv/fJnjFe8Stht65YqjvZ+Opanc4p5CjxR5Ag2l22DhQKy8UYZXBJd1xKFN1L6og3OD7DPB+SBiVi5xfnP6TQ==",
+  "success": true,
+  "projectFilePath": "C:\\Graph_Using_Excel_Openxml_C#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bdas\\.nuget\\packages\\documentformat.openxml\\3.0.2\\documentformat.openxml.3.0.2.nupkg.sha512",
+    "C:\\Users\\bdas\\.nuget\\packages\\documentformat.openxml.framework\\3.0.2\\documentformat.openxml.framework.3.0.2.nupkg.sha512",
+    "C:\\Users\\bdas\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
